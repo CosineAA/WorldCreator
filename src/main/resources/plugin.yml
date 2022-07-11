@@ -1,0 +1,8 @@
+main: com.cosine.worldcreator.main.WorldCreator
+name: WorldCreator
+version: 1.0
+author: Cosine_A
+description: 월드 생성 플러그인
+
+commands:
+  월드:
